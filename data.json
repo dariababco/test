@@ -1,4 +1,4 @@
-{"nodes":[{"name":"Politik"},{"name":"Fußball"},{"name":"Sonstige"},{"name":"Anzeige erstattet"},{"name":"keine Anzeige erstattet"},{"name":"Körperverletzung"},{"name":"Nötigung"},{"name":"Freiheitsberaubung"},{"name":"Sexuelle Belästigung"},{"name":"keine Ahnung"},{"name":"Verfahren fertig"},{"name":"Verfahren läuft noch"},{"name":"Anklage"},{"name":"Verfahren eingestellt"},{"name":"Weiß Status nicht"},{"name":"Verurteilung"},{"name":"Freispruch"},{"name":"Eingestellt"},{"name":"keine Angabe"},{"name":"eingestellt mangels hinreichendem Tatverdacht"},{"name":"fehlende Identifizierbarkeit"},{"name":"Geringfügigkeit"},{"name":"Gegen Auflagen"},{"name":"Verjährung"},{"name":"kenne Einstellungsgrund nicht"},{"name":"wahrscheinlich auch  mangelnder Tatverdacht"},{"name":"Demonstration"},{"name":"Fußball"},{"name":"politische Aktion"},{"name":"Ruhestörung aber war unbeteiligt"},{"name":"Angabe fehlend"}],"links":[{"source":0,"target":3,"value":160},
+{"nodes":[{"name":"Politik"},{"name":"Fußball"},{"name":"Sonstige"},{"name":"Anzeige erstattet"},{"name":"keine Anzeige erstattet"},{"name":"Körperverletzung"},{"name":"Nötigung"},{"name":"Freiheitsberaubung"},{"name":"Sexuelle Belästigung"},{"name":"keine Ahnung"},{"name":"Verfahren fertig"},{"name":"Verfahren läuft noch"},{"name":"Anklage"},{"name":"Verfahren eingestellt"},{"name":"Weiß Status nicht"},{"name":"Verurteilung"},{"name":"Freispruch"},{"name":"Eingestellt"},{"name":"keine Angabe"},{"name":"eingestellt mangels hinreichendem Tatverdacht"},{"name":"fehlende Identifizierbarkeit"},{"name":"Geringfügigkeit"},{"name":"Gegen Auflagen"},{"name":"Verjährung"},{"name":"kenne Einstellungsgrund nicht"},{"name":"wahrscheinlich auch  mangelnder Tatverdacht"},{"name":"Demonstration"},{"name":"Fußball"},{"name":"politische Aktion"},{"name":"Ruhestörung aber war unbeteiligt"},{"name":"Angabe fehlend"},{"name":"Strafbefehl"}],"links":[{"source":0,"target":3,"value":160},
 {"source":1,"target":3,"value":130},
 {"source":2,"target":3,"value":148},
 {"source":0,"target":4,"value":1569},
@@ -17,6 +17,7 @@
 {"source":10,"target":12,"value":18},
 {"source":10,"target":13,"value":304},
 {"source":10,"target":14,"value":28},
+{"source":10,"target":31,"value":4},
 {"source":12,"target":15,"value":7},
 {"source":12,"target":16,"value":6},
 {"source":12,"target":17,"value":2},
